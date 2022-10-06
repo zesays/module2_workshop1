@@ -1,0 +1,168 @@
+body {
+    background-color: rgb(235, 140, 187);
+}
+
+.header1 {
+    border: 50px outset rgb(0, 0, 0);
+    background-color: lightblue;
+    text-align: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.header2 {
+    border: 40px outset rgb(78, 40, 148);
+    background-color: lightblue;
+    text-align: center;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+} 
+
+.headerminilinks {
+    border: 26px outset rgb(78, 40, 148);
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    margin-left: 940px;
+    margin-right: auto;
+    margin-top: 20px;
+} 
+
+.headerminirechts {
+    border: 26px outset rgb(78, 40, 148);
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    margin-left: auto;
+    margin-right: 940px;
+    margin-top: -53px;
+} 
+
+.logominilinks {
+    border: 40px outset rgb(16, 158, 80);
+    background-color: lightblue;
+    text-align: center;
+    width: 250px;
+     height: 200px;
+    margin-left: auto;
+    margin-right: 940px;
+    margin-top: 30px;
+} 
+.logominirechts {
+    border: 40px outset rgb(16, 158, 80);
+    background-color: lightblue;
+    text-align: center;
+    width: 250px;
+     height: 200px;
+    margin-left: 940px;
+    margin-right: auto;
+    margin-top: -280px;
+}
+
+.logo {
+    border: 40px outset rgb(16, 158, 80);
+    background-color: lightblue;
+    text-align: center;
+    width: 350px;
+     height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -360px;
+}
+
+.headerminirechtsonder {
+    border: 26px outset rgb(78, 40, 148);
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    margin-left: 940px;
+    margin-right: auto;
+    margin-top: -80px;
+} 
+.headerminilinksonder {
+    border: 26px outset rgb(197, 67, 143);
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    margin-left: auto;
+    margin-right: 940px;
+    margin-top: -50px;
+} 
+
+.header3 {
+    border: 20px outset rgb(78, 40, 148);
+    background-color: lightblue;
+    text-align: center;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.bloklinks1 {
+    border: 26px outset rgb(197, 67, 143);
+    background-color: lightblue;
+    text-align: center;
+    width: 50px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: 1190px;
+    margin-top: 300px;
+} 
+
+.bloklinks2 {
+    border: 26px outset rgb(197, 67, 143);
+    background-color: lightblue;
+    text-align: center;
+    width: 50px;
+    height: 140px;
+    margin-left: 1190px;
+    margin-right: auto;
+    margin-top: -190px;
+} 
+
+.blokrechts1 {
+    border: 26px outset rgb(67, 178, 197);
+    background-color: lightblue;
+    text-align: center;
+    width: 130px;
+    height: 540px;
+    margin-left: 990px;
+    margin-right: auto;
+    margin-top: -540px;
+} 
+
+.blokrechts2 {
+    border: 26px outset rgb(77, 53, 143);
+    background-color: lightblue;
+    text-align: center;
+    width: 130px;
+    height: 540px;
+    margin-left: auto;
+    margin-right: 990px;
+    margin-top: -590px;
+} 
+
+.foto {
+    border: 20px outset rgb(16, 158, 80);
+    background-color: lightblue;
+    text-align: center;
+    width: 450px;
+     height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -400px;
+}
+
+.footer {
+    border: 20px outset rgb(78, 40, 148);
+    background-color: lightblue;
+    text-align: center;
+    width: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}  
