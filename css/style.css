@@ -18,7 +18,7 @@ body {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
+    margin-top: 4%;
 } 
 
 .headerminilinks {
@@ -26,9 +26,8 @@ body {
     background-color: lightblue;
     text-align: center;
     width: 300px;
-    margin-left: 940px;
-    margin-right: auto;
-    margin-top: 20px;
+    margin-left: 70%;
+    margin-top: 5%;
 } 
 
 .headerminirechts {
@@ -36,9 +35,8 @@ body {
     background-color: lightblue;
     text-align: center;
     width: 300px;
-    margin-left: auto;
-    margin-right: 940px;
-    margin-top: -53px;
+    margin-left: 3%;
+    margin-top: -4%;
 } 
 
 .logominilinks {
@@ -47,9 +45,8 @@ body {
     text-align: center;
     width: 250px;
      height: 200px;
-    margin-left: auto;
-    margin-right: 940px;
-    margin-top: 30px;
+    margin-left: 4%;
+    margin-top: 3%;
 } 
 .logominirechts {
     border: 40px outset rgb(16, 158, 80);
@@ -57,9 +54,8 @@ body {
     text-align: center;
     width: 250px;
      height: 200px;
-    margin-left: 940px;
-    margin-right: auto;
-    margin-top: -280px;
+    margin-left: 70%;
+    margin-top: -20%;
 }
 
 .logo {
@@ -68,9 +64,8 @@ body {
     text-align: center;
     width: 350px;
      height: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: -360px;
+    margin-left: 33%;
+    margin-top: -25%;
 }
 
 .headerminirechtsonder {
@@ -78,18 +73,16 @@ body {
     background-color: lightblue;
     text-align: center;
     width: 300px;
-    margin-left: 940px;
-    margin-right: auto;
-    margin-top: -80px;
+    margin-left: 70%;
+    margin-top: -5%;
 } 
 .headerminilinksonder {
     border: 26px outset rgb(197, 67, 143);
     background-color: lightblue;
     text-align: center;
     width: 300px;
-    margin-left: auto;
-    margin-right: 940px;
-    margin-top: -50px;
+    margin-left: 3%;
+    margin-top: -4%;
 } 
 
 .header3 {
@@ -97,9 +90,8 @@ body {
     background-color: lightblue;
     text-align: center;
     width: 1000px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
+    margin-left: 10%;
+    margin-top: 5%;
 }
 
 .bloklinks1 {
@@ -108,9 +100,8 @@ body {
     text-align: center;
     width: 50px;
     height: 140px;
-    margin-left: auto;
-    margin-right: 1190px;
-    margin-top: 300px;
+    margin-right: 90%;
+    margin-top: 20%;
 } 
 
 .bloklinks2 {
@@ -119,9 +110,8 @@ body {
     text-align: center;
     width: 50px;
     height: 140px;
-    margin-left: 1190px;
-    margin-right: auto;
-    margin-top: -190px;
+    margin-left: 92%;
+    margin-top: -15%;
 } 
 
 .blokrechts1 {
@@ -130,9 +120,8 @@ body {
     text-align: center;
     width: 130px;
     height: 540px;
-    margin-left: 990px;
-    margin-right: auto;
-    margin-top: -540px;
+    margin-left: 72%;
+    margin-top: -40%;
 } 
 
 .blokrechts2 {
@@ -141,9 +130,8 @@ body {
     text-align: center;
     width: 130px;
     height: 540px;
-    margin-left: auto;
-    margin-right: 990px;
-    margin-top: -590px;
+    margin-left: 14%;
+    margin-top: -45%;
 } 
 
 .foto {
@@ -152,17 +140,15 @@ body {
     text-align: center;
     width: 450px;
      height: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: -400px;
+    margin-left: 31%;
+    margin-top: -30%;
 }
 
 .footer {
     border: 20px outset rgb(78, 40, 148);
     background-color: lightblue;
     text-align: center;
-    width: 110px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
+    width: 1100px;
+    margin-left: 8%;
+    margin-top: 5%;
 }  
